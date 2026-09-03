@@ -30,7 +30,7 @@ heino-cleaner
 ## System Requirements
 
 - Windows 10 or later
-- Python 3.6+
+- Python 3.0+
 - For full functionality, run as Administrator (optional)
 
 ## Uninstallation
